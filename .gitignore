@@ -32,7 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 #kuang配置 注释
-#为注释
+#为注释下次
 *.txt #忽略所有 .txt结尾的文件
 !lib.txt #但lib.txt除外
 /temp #仅忽略项目根目录下的TODO文件,不包括其它目录temp
